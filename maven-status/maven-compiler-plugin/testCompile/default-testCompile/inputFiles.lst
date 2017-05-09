@@ -1,0 +1,7 @@
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/DbAnalyzerTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/ConfigTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/model/TableColumnMetaTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/GraphvizVersionTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/model/TableFullNameTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/DbSpecificOptionTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/RailsNamingTest.java

@@ -1,0 +1,7 @@
+org/schemaspy/util/GraphvizVersionTest.class
+org/schemaspy/model/TableFullNameTest.class
+org/schemaspy/model/TableColumnMetaTest.class
+org/schemaspy/ConfigTest.class
+org/schemaspy/util/DbSpecificOptionTest.class
+org/schemaspy/DbAnalyzerTest.class
+org/schemaspy/util/RailsNamingTest.class
